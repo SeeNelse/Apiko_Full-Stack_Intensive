@@ -18,7 +18,6 @@
     allPosts()
   }
   
-  console.log(window.location);
   // слежка за кликом "назад"/"вперед"
   addEventListener("popstate",function(e){
     if (window.location.search.includes('?postId=')) {
@@ -28,6 +27,10 @@
       usersTake(userId);
       return;
     } else {
+      singlePost = false;
+      [...postsWrapper.children].forEach(function(item, i, arr) {
+        item.remove();
+      });
       allPosts();
     }
   },false);
