@@ -1,0 +1,19 @@
+.header {
+  background-color: #cc3739;
+  padding: 20px 30px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  &__head {
+    color: #ebd5d6;
+    margin: 0;
+  }
+  &__gh {
+    width: 25px;
+  }
+}
+
+body {
+  background-color: rgb(59, 59, 59);
+}
