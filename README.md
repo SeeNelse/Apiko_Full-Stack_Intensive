@@ -11,3 +11,7 @@
 [Link to homework](http://dovzhen.co/apiko/hw_1/)
 - Link to single post http://dovzhen.co/apiko/hw_1/?postId=n
 - Link to user http://dovzhen.co/apiko/hw_1/?userId=n
+
+## Homework #2 ##
+
+[Link to homework](http://dovzhen.co/apiko/hw_2/)
