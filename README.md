@@ -15,3 +15,13 @@
 ## Homework #2 ##
 
 [Link to homework](http://dovzhen.co/apiko/hw_2/)
+
+## Homework #3 ##
+
+Save Data from Endpoint to “data.json” file into your project.
+Make components:
+  PostList - A list for all of you posts.
+  PostListItem - A post list item component.
+  MoreButton - Button to be placed under the list.
+PostList should show 10 posts at first.
+MoreButton have to load 10 more post to your list.
