@@ -18,10 +18,10 @@
 
 ## Homework #3 ##
 
-Save Data from Endpoint to “data.json” file into your project.
-Make components:
-  PostList - A list for all of you posts.
-  PostListItem - A post list item component.
-  MoreButton - Button to be placed under the list.
-PostList should show 10 posts at first.
-MoreButton have to load 10 more post to your list.
+1. Save Data from Endpoint(https://jsonplaceholder.typicode.com/posts) to “data.json” file into your project.
+2. Make components:
+-PostList - A list for all of you posts.
+-PostListItem - A post list item component.
+-MoreButton - Button to be placed under the list.
+3. PostList should show 10 posts at first.
+4. MoreButton have to load 10 more post to your list.
