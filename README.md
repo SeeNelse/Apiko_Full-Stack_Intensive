@@ -25,3 +25,10 @@
   - MoreButton - Button to be placed under the list.
 3. PostList should show 10 posts at first.
 4. MoreButton have to load 10 more post to your list.
+
+## Homework #4 ##
+
+1. Create “search” input conponent
+2. Filter posts data by “title” accourding to entered text
+3. PostList should show matched elements
+4. In case when no items found you should show “No items found” message (Make component for this one)
