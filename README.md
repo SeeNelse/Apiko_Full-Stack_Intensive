@@ -32,3 +32,10 @@
 2. Filter posts data by “title” accourding to entered text
 3. PostList should show matched elements
 4. In case when no items found you should show “No items found” message (Make component for this one)
+
+## Homework #5 ##
+
+1. Rewrite you Post list using componentDidMount with fetch
+2. Add loader
+3. Set inreval for fetching your list
+4. Prevent render for list item components
